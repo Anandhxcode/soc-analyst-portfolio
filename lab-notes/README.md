@@ -1,2 +1,2 @@
 # Lab Notes
-Daily learning notes by Codexanandh
+Daily learning notes by Codexanandh 
